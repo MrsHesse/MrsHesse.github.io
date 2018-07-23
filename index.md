@@ -9,7 +9,7 @@ print("Hello world")
 
 # Javascript
 ```Javascript
-write("Hello world")
+write("Hello world");
 ```
 
 # HTML
