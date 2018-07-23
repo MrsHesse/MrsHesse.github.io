@@ -40,7 +40,7 @@ Have a look at my first repository [hello world](https://github.com/MrsHesse/hel
 3. `Entry 3` is code
 
 ## A link to an image
-![Github's Octocat](https://assets-cdn.github.com/images/modules/logos_page/Octocat.png)
+![Github's Octocat](https://assets-cdn.github.com/images/modules/logos_page/Octocat.png)<!-- .element width="30%" -->
 
 ## More info on Githubs markdown
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
