@@ -1,18 +1,14 @@
 <script src="lib/p5.min.js"></script>
 <script src="lib/turtlegfx.js"></script>
 
-
 <script>
 
 // Turtle example translated from LOGO from:
 // http://fmslogo.sourceforge.net/workshop/
 
-var myCanvas;
-
 function setup()
 {
-	var myCanvas = createCanvas(500, 300);
-    myCanvas.parent("turtlecanvas");
+    createCanvas(800, 600);
 
     spiral();
 }
@@ -29,14 +25,3 @@ function spiral()
 }
 
 </script>
-
-<head>
-	<title>Learn turtle</title>
-</head>
-<body>
-	<h1>Learn Python turtle here!</h1>
-	
-	<canvas id="turtlecanvas" style="border:black"></canvas>
-</body>
-
-
